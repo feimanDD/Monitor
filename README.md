@@ -1,18 +1,14 @@
-## ShadowSpeed
+## SimpleHost
 
-ShadowSpeed is a Net Monitor Util
+This app is a simple hosts manager app
 
-You can test your network speed on WIFI OR 4G
+Users can manager custom hosts in a easy way instead of edit the system file
 
-You can see your full speed history
+Users can add/edit/delete host config 
 
-You can see the real time upload/download speed 
+When 'Enable Hosts' the user custom host configs are in effect
 
-You can ping a host in this app like what you do in the shell on the compute
-
-You can see the whole ping infomations in this app
-
-It's very easy to use 
+We will add more fuction and improve user experience continually
 
 ### Support or Contact
 
